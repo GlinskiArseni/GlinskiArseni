@@ -1,5 +1,6 @@
+![Hi, welcome to my profile](https://github.com/GlinskiArseni/GlinskiArseni/assets/153538892/aca263ed-f7c2-4798-b78f-d7e5182c9306)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arseniy
-===============================================================================================================================
+====================================================================================
 
 I am a beginner programmer learning JavaScript
 ----------------------------------------------
